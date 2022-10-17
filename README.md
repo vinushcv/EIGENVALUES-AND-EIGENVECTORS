@@ -17,7 +17,8 @@ End of the program.
 ## Program:
 ```python
 
-
+#developed by:vinushcv
+#reg number:22001897
 import numpy as np
 a= np.array([[2,2],[1,3]])
 values,vectors=np.linalg.eig(a)
